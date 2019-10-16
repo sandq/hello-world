@@ -2,4 +2,9 @@
 the first Github repository
 
 
-hello world
+
+
+=======
+
+
+Hubot here, I Node.js and Coffeescript (that's what I'm made of!).>>>>>>> master
